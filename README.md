@@ -1,0 +1,1 @@
+Basic Recipe written in hmtl. First project in the Odin Project curriculum 
